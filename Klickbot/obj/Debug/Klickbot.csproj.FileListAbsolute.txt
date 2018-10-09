@@ -1,0 +1,12 @@
+C:\Users\David\Documents\C#\Klickbot\Klickbot\bin\Debug\Klickbot.exe.config
+C:\Users\David\Documents\C#\Klickbot\Klickbot\bin\Debug\Klickbot.exe
+C:\Users\David\Documents\C#\Klickbot\Klickbot\bin\Debug\Klickbot.pdb
+C:\Users\David\Documents\C#\Klickbot\Klickbot\obj\Debug\Klickbot.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\C#\Klickbot\Klickbot\obj\Debug\App.g.cs
+C:\Users\David\Documents\C#\Klickbot\Klickbot\obj\Debug\Klickbot_MarkupCompile.cache
+C:\Users\David\Documents\C#\Klickbot\Klickbot\obj\Debug\Klickbot.exe
+C:\Users\David\Documents\C#\Klickbot\Klickbot\obj\Debug\Klickbot.pdb
+C:\Users\David\Documents\C#\Klickbot\Klickbot\obj\Debug\MainWindow.g.cs
+C:\Users\David\Documents\C#\Klickbot\Klickbot\obj\Debug\Klickbot_MarkupCompile.lref
+C:\Users\David\Documents\C#\Klickbot\Klickbot\obj\Debug\MainWindow.baml
+C:\Users\David\Documents\C#\Klickbot\Klickbot\obj\Debug\Klickbot.g.resources
