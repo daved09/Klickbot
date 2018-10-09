@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Klickbot"
         xmlns:tb="http://www.hardcodet.net/taskbar"
         mc:Ignorable="d"
-        Title="Klickbot" Height="201.564" Width="363.46">
+        Title="Klickbot" Height="201.564" Width="363.46" MinHeight="200" MaxHeight="202" MinWidth="360">
     <Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition/>
